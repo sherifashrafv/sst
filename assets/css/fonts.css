@@ -1,0 +1,358 @@
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/Phonk/Phonk_Regular_DEMO.otf");
+  src: url("../fonts/ar/29LTBaseet-Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Black.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Black.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Black.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Black.svg#29LTBaseet-Black") format("svg");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Bold.eot");
+  src: url("../fonts/ar/29LTBaseet-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Bold.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Bold.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Bold.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Bold.svg#29LTBaseet-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Bold_1.eot");
+  src: url("../fonts/ar/29LTBaseet-Bold_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Bold_1.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Bold_1.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Bold_1.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Bold_1.svg#29LTBaseet-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-ExtraBold.eot");
+  src: url("../fonts/ar/29LTBaseet-ExtraBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-ExtraBold.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-ExtraBold.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-ExtraBold.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-ExtraBold.svg#29LTBaseet-ExtraBold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Light.eot");
+  src: url("../fonts/ar/29LTBaseet-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Light.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Light.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Light.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Light.svg#29LTBaseet-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-ExtraLight.eot");
+  src: url("../fonts/ar/29LTBaseet-ExtraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-ExtraLight.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-ExtraLight.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-ExtraLight.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-ExtraLight.svg#29LTBaseet-ExtraLight")
+      format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-ExtraBold_1.eot");
+  src: url("../fonts/ar/29LTBaseet-ExtraBold_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-ExtraBold_1.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-ExtraBold_1.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-ExtraBold_1.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-ExtraBold_1.svg#29LTBaseet-ExtraBold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-ExtraLight_1.eot");
+  src: url("../fonts/ar/29LTBaseet-ExtraLight_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-ExtraLight_1.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-ExtraLight_1.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-ExtraLight_1.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-ExtraLight_1.svg#29LTBaseet-ExtraLight")
+      format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Medium.eot");
+  src: url("../fonts/ar/29LTBaseet-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Medium.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Medium.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Medium.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Medium.svg#29LTBaseet-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Medium_1.eot");
+  src: url("../fonts/ar/29LTBaseet-Medium_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Medium_1.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Medium_1.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Medium_1.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Medium_1.svg#29LTBaseet-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Regular.eot");
+  src: url("../fonts/ar/29LTBaseet-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Regular.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Regular.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Regular.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Regular.svg#29LTBaseet-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Light_1.eot");
+  src: url("../fonts/ar/29LTBaseet-Light_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Light_1.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Light_1.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Light_1.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Light_1.svg#29LTBaseet-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Thin.eot");
+  src: url("../fonts/ar/29LTBaseet-Thin.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Thin.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Thin.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Thin.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Thin.svg#29LTBaseet-Thin") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Regular_1.eot");
+  src: url("../fonts/ar/29LTBaseet-Regular_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Regular_1.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Regular_1.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Regular_1.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Regular_1.svg#29LTBaseet-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/ar/29LTBaseet-Thin_1.eot");
+  src: url("../fonts/ar/29LTBaseet-Thin_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Thin_1.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Thin_1.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Thin_1.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Thin_1.svg#29LTBaseet-Thin") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "29LT Baseet";
+  src: url("../fonts/");
+  src: url("../fonts/ar/29LTBaseet-Thin_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ar/29LTBaseet-Thin_1.woff2") format("woff2"),
+    url("../fonts/ar/29LTBaseet-Thin_1.woff") format("woff"),
+    url("../fonts/ar/29LTBaseet-Thin_1.ttf") format("truetype"),
+    url("../fonts/ar/29LTBaseet-Thin_1.svg#29LTBaseet-Thin") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HelveticaNeueLT W20 75";
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Bold.eot");
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Bold.woff2") format("woff2"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Bold.woff") format("woff"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Bold.ttf")
+      format("truetype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Bold.svg#HelveticaNeueLTW20-Bold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaNeueLT Arabic 55 Roman";
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman.eot");
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman.woff2")
+      format("woff2"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman.woff")
+      format("woff"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman.ttf")
+      format("truetype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman.svg#HelveticaNeueLTArabic-Roman")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaNeueLT Arabic 75";
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold.eot");
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold.woff2")
+      format("woff2"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold.woff")
+      format("woff"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold.ttf")
+      format("truetype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold.svg#HelveticaNeueLTArabic-Bold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaNeueLT W20 55 Roman";
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Roman.eot");
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Roman.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Roman.woff2")
+      format("woff2"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Roman.woff") format("woff"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Roman.ttf")
+      format("truetype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTW20-Roman.svg#HelveticaNeueLTW20-Roman")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaNeueLT Arabic 55 Roman";
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman_1.eot");
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman_1.woff2")
+      format("woff2"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman_1.woff")
+      format("woff"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman_1.ttf")
+      format("truetype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Roman_1.svg#HelveticaNeueLTArabic-Roman")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaNeueLT Arabic 75";
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold_1.eot");
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold_1.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold_1.woff2")
+      format("woff2"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold_1.woff")
+      format("woff"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold_1.ttf")
+      format("truetype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Bold_1.svg#HelveticaNeueLTArabic-Bold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaNeueLT Arabic 45";
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Light.eot");
+  src: url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Light.woff2")
+      format("woff2"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Light.woff")
+      format("woff"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Light.ttf")
+      format("truetype"),
+    url("../fonts/HelveticaNeueL/HelveticaNeueLTArabic-Light.svg#HelveticaNeueLTArabic-Light")
+      format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Phonk";
+  src: url("../fonts/Phonk/Phonk_Regular_DEMO.otf");
+  src: url("../fonts/Phonk/Phonk_Regular_DEMO.otf") format("embedded-opentype"),
+    url("../fonts/Phonk/Phonk_Regular_DEMO.otf") format("woff2"),
+    url("../fonts/Phonk/Phonk_Regular_DEMO.otf") format("woff"),
+    url("../fonts/Phonk/Phonk_Regular_DEMO.otf") format("truetype"),
+    url("../fonts/Phonk/Phonk_Regular_DEMO.otf") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
