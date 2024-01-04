@@ -177,18 +177,12 @@ $(document).ready(function () {
     $(".shadow-container").toggleClass("active");
   });
   $(window).on("load", () => {
-    setTimeout(() => {
-      $(".preloader").fadeOut();
-    }, 5000);
+    $(".preloader").fadeOut();
+    // setTimeout(() => {}, 5000);
   });
   $(window).on("resize", () => {
     $(".sm-header").removeClass("active");
     $(".shadow-container").removeClass("active");
     $(document.body).toggleClass("overflow-hidden");
   });
-  // $(".hamburger").click(function () {
-  //   $(document.body).toggleClass("menu-on");
-  //   $(".navMenu-links").toggleClass("active");
-  //   $(this).toggleClass("close");
-  // });
 });

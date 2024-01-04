@@ -27,6 +27,5 @@
                     <li class="mb-[3rem] text-[#6D758F] inline-block text[15px] font-bold">
                         <a href="">Carrers</a>
                     </li>
-                </ul>
-    
+            </ul>
 </div>
