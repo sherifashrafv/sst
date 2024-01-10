@@ -1,9 +1,7 @@
 <nav>
     <!-- start-top header -->
     <div class="top-header bg-black p-5"> 
-
     <div class="flex items-center justify-center">
-
     <div class="flex flex-row gap-4 items-center">
     <h4 class="text-center text-[14px] font-semibold">
     Don't miss out on amazing deals! Hurry Up And Join Us to receive a 10% OFF code.
@@ -19,7 +17,6 @@
 </div>
 <!-- start-bottom header -->
 <nav class="fixed_navbar border-b-2 pb-1  border-[#e8e8e8]">
-
     <div class="container my-5">
         <div class="sst-group flex justify-between flex-row items-center gap-3 ">
             <div class="logo w-[94px] h-[25.467px] object-center object-fill">
@@ -27,7 +24,7 @@
             </div>
             <div>
                 <ul class="sst-links flex">
-                    <li class="mr-[3rem] ml-6 text-[#6D758F] inline-block text[16px] font-normal">
+                    <li class="mr-[3rem] ml-6 active text-[#6D758F] inline-block text[16px] font-normal">
                         <a href="">Home</a>
                     </li>
                     <li class="mr-[3rem] text-[#6D758F] inline-block text[16px] font-normal">
@@ -54,6 +51,8 @@
                 </ul>
             </div>
             <div class="group-btns responsive-btns flex gap-2">
+                        
+
                 <button class="dk-btn outline-none py-3 px-5 rounded-lg bg-black"> 
                     <span class="font-bold">
                     Subscribe Now 

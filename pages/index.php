@@ -15,4 +15,5 @@ require "../components/home/clients.php";
 require "../components/home/partners.php";
 require "../components/home/faqs.php";
 require "../components/home/jobs.php";
+require "../components/global/footer.php";
 ?>

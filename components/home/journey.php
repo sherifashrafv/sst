@@ -11,10 +11,9 @@
     </div>
     <!-- start -steps -->
     <div class="container">
-
         <div class="row count_steps">
             <div class="grid grid-cols-2">
-                <div class="flex justify-end">
+                <div id="first_step" class="flex justify-end">
                     <div class="step wrapper w-[253px]">
                         <p class="steps_num mb-3">STEP 02</p>
                         <h3 class="fm-phonk text-[#F24E1E] mb-3">
@@ -26,7 +25,7 @@
                         </h4>
                     </div>
                 </div>
-                <div class="flex justify-end">
+                <div id="secound_step" class="flex justify-end">
                     <div class="step wrapper w-[253px]">
                         <p class="steps_num mb-3">STEP 04</p>
                         <h3 class="fm-phonk text-[#F24E1E] mb-3">
@@ -45,10 +44,7 @@
             <span>3</span>
             <span>4</span>
             </div>
-        </div>
-        <!--  -->
-        <div>
-        <div class="grid grid-cols-2 mt-[11rem]">
+                    <div class="grid grid-cols-2 mt-[11rem]">
                     <div class="step wrapper w-[253px]">
                         <p class="steps_num mb-3">STEP 02</p>
                         <h3 class="fm-phonk text-[#F24E1E] mb-3">
@@ -71,6 +67,10 @@
                     </div>
                 </div>
         </div>
+        </div>
+        <!--  -->
+        <div>
+
 
         <button class="btn-warn  font-bold py-3 px-7 mt-24 flex items-center m-auto justify-center gap-2 ">
             Subscribe Now
